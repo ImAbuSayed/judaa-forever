@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/judaa-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Judaa Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/judaa-forever/) |
+| **Get License** | [Obtain a Music License for Judaa Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/judaa-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1827)
 
 ---
 
