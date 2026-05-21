@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/judaa-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Judaa Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/judaa-forever/) |
+| **Get License** | [License this song: Judaa Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/judaa-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tere akhiyan da nasha mainu lagge dark and deep,
+> Saari raat sochda haan tainu main losing my sleep,
+> Mud mud vekhda haan mukhda tera losing control,
+> Sohniye teriyan adavan ne chhu leya my soul.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
